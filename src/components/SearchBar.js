@@ -37,7 +37,7 @@ class SearchBar extends React.Component{
             <div className="ui segment">
                 <form onSubmit={this.onFormSubmit} className="ui form">
                     <div className="field">
-                        <label>Search Image that you LOVE</label>
+                        <label>Search Images...</label>
                         {/* <input type="text" onClick={this.onInputClick}></input> */}
                         {/* <input type="text" onChange={this.onInputChange}></input> */}
                         {/* <input type="text" onChange={(event)=>{console.log(event.target.value)}}></input> */}
